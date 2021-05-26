@@ -1,0 +1,17 @@
+dependencies: []
+
+galaxy_info:
+  author: Test
+  description: A role to install heimdall
+  company: Matic Networks
+  license: ""
+  min_ansible_version: 2.8
+  platforms:
+  - name: ubuntu
+    versions:
+    - all
+  - name: EL
+    versions:
+    - all
+  galaxy_tags:
+    - matic
